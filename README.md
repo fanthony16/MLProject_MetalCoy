@@ -1,1 +1,1 @@
-## End to end machine learning project for machine learning manufacturing company on a regression and classification task
+## End to end machine learning project for a manufacturing company on a regression and classification task
